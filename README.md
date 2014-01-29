@@ -2,7 +2,7 @@
 
 ### Summary
 
-See [echof](/jeberle/echof). This server uses UNIX domain sockets along w/ the
+See [echof](https://github.com/jeberle/echof). This server uses UNIX domain sockets along w/ the
 `NSNotificationCenter` with `NSFileHandle`
 `readInBackgroundAndNotify`. It works as expected.
 
